@@ -1,4 +1,4 @@
-// Created by Edmond Tsoi, Dominick Huyn.
+// Created by Edmond Tsoi
 // AI Chatbot developed using BootBot Javascript framework @2019
 // https://github.com/Charca/bootbot
 
