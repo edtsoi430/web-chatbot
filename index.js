@@ -6,9 +6,9 @@
   // Chatbot
   const BootBot = require('bootbot');
   const bot = new BootBot({
-      accessToken: 'EAAGalcf1NI4BADbCWmaWh6frZAXh5iG0HIu47gvfJNB3OZCFl0PKR5oBrBsqVEnsRfuJitzAlGjuzOevInpw2ZA79Buojf8QV3FQuoUmhSPNkR1VQDuLLJZCYwM8ATAMLgsEdxFX9oNwNyxCOrCt9Vk1vgAjD5Obnyt8RIjoEwkA8FRIZASGo',
-      verifyToken: 'abc-cba-123',
-      appSecret: '5b34ef02703b7acfcac15047255ebd65'
+      accessToken: 'YOUR_ACCESS_TOKEN',
+      verifyToken: 'YOUR_VERIFY_TOKEN',
+      appSecret: 'YOUR_APP_SECRET'
     });
   
   
